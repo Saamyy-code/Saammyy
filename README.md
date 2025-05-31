@@ -9,8 +9,6 @@
 - 💻 I enjoy building small projects that solve real problems and sharpen my skills.
 - 🤝 I’m looking to collaborate on **open-source projects** and beginner-friendly repositories.
 - 🧩 I love solving coding challenges on **LeetCode** and improving my problem-solving approach.
-- ⚡ Fun fact: *I started coding out of curiosity — now it’s my passion.*
-
 ---
 
 ### 🔧 Tech Stack
