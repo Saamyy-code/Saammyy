@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Full-Stack Web Development** and diving deep into **Data Structures & Algorithms**.
 - 💻 I enjoy building small projects that solve real problems and sharpen my skills.
 - 🤝 I’m looking to collaborate on **open-source projects** and beginner-friendly repositories.
-- 🧩 I love solving coding challenges on **LeetCode** and improving my problem-solving approach.
+- 🧩 I enjoy solving coding challenges on **LeetCode** and improving my problem-solving approach.
 ---
 
 ### 🔧 Tech Stack
